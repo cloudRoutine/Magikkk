@@ -1,0 +1,9 @@
+NUGET
+  remote: http://api.nuget.org/v3/index.json
+  specs:
+    FAKE (4.19.0)
+    IntelliFactory.Xml (0.6.63.95)
+    WebSharper (3.6.7.227)
+    Websharper.Html (3.6.6.18)
+      IntelliFactory.Xml (>= 0.6.63.95)
+      WebSharper (>= 3.6.7.227)

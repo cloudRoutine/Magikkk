@@ -1,0 +1,1890 @@
+[16:08:13] SERVICE
+  Sending request: [object Object]
+[16:08:13] SERVICE
+  Got 'project': [object Object]
+[16:08:14] SERVICE
+  Sending request: [object Object]
+[16:08:14] SERVICE
+  Got 'info': [object Object]
+[16:08:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:22] SERVICE
+  Sending request: [object Object]
+[16:08:23] SERVICE
+  Got 'project': [object Object]
+[16:08:24] SERVICE
+  Sending request: [object Object]
+[16:08:24] SERVICE
+  Sending request: [object Object]
+[16:08:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:08:24] SERVICE
+  Got 'info': [object Object]
+[16:08:24] SERVICE
+  Sending request: [object Object]
+[16:08:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:24] SERVICE
+  Got 'info': [object Object]
+[16:08:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:24] SERVICE
+  Got 'info': [object Object]
+[16:08:25] SERVICE
+  Sending request: [object Object]
+[16:08:25] SERVICE
+  Sending request: [object Object]
+[16:08:25] SERVICE
+  Sending request: [object Object]
+[16:08:25] SERVICE
+  Got 'info': [object Object]
+[16:08:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:08:25] SERVICE
+  Got 'info': [object Object]
+[16:08:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:25] SERVICE
+  Got 'info': [object Object]
+[16:08:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:26] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:08:26] AUTOCOMPLETE
+  Using last result: 
+[16:08:26] AUTOCOMPLETE
+  updating...
+[16:08:26] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:26] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:08:26] AUTOCOMPLETE
+  Using last result: 
+[16:08:26] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:08:26] SERVICE
+  Sending request: [object Object]
+[16:08:26] SERVICE
+  Got 'info': [object Object]
+[16:08:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:08:26] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:08:26] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:08:26] AUTOCOMPLETE
+  Using last result: 
+[16:08:36] SERVICE
+  Sending request: [object Object]
+[16:08:36] SERVICE
+  Got 'info': [object Object]
+[16:08:36] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:09:29] SERVICE
+  Sending request: [object Object]
+[16:09:29] SERVICE
+  Got 'info': [object Object]
+[16:09:29] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:09:40] SERVICE
+  Sending request: [object Object]
+[16:09:43] SERVICE
+  Sending request: [object Object]
+[16:09:44] SERVICE
+  Got 'project': [object Object]
+[16:09:44] SERVICE
+  Got 'info': [object Object]
+[16:09:44] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:09:45] SERVICE
+  Sending request: [object Object]
+[16:09:45] SERVICE
+  Got 'info': [object Object]
+[16:09:45] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:09:45] SERVICE
+  Sending request: [object Object]
+[16:09:45] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:09:45] SERVICE
+  Got 'info': [object Object]
+[16:09:57] SERVICE
+  Sending request: [object Object]
+[16:09:57] SERVICE
+  Got 'project': [object Object]
+[16:09:57] SERVICE
+  Sending request: [object Object]
+[16:09:57] SERVICE
+  Got 'info': [object Object]
+[16:09:57] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:09:58] SERVICE
+  Sending request: [object Object]
+[16:09:58] SERVICE
+  Sending request: [object Object]
+[16:09:58] SERVICE
+  Sending request: [object Object]
+[16:09:58] SERVICE
+  Got 'info': [object Object]
+[16:09:58] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:09:58] SERVICE
+  Got 'info': [object Object]
+[16:09:58] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:09:58] SERVICE
+  Got 'info': [object Object]
+[16:09:58] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:00] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:00] AUTOCOMPLETE
+  Using last result: 
+[16:10:00] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:00] AUTOCOMPLETE
+  Using last result: 
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:00] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:00] AUTOCOMPLETE
+  Using last result: 
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Sending request: [object Object]
+[16:10:00] SERVICE
+  Got 'info': [object Object]
+[16:10:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:01] SERVICE
+  Sending request: [object Object]
+[16:10:01] SERVICE
+  Sending request: [object Object]
+[16:10:01] SERVICE
+  Sending request: [object Object]
+[16:10:01] SERVICE
+  Got 'info': [object Object]
+[16:10:01] SERVICE
+  Got 'info': [object Object]
+[16:10:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:01] SERVICE
+  Got 'info': [object Object]
+[16:10:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:01] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:01] AUTOCOMPLETE
+  Using last result: 
+[16:10:01] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:01] AUTOCOMPLETE
+  Using last result: 
+[16:10:02] SERVICE
+  Sending request: [object Object]
+[16:10:02] SERVICE
+  Sending request: [object Object]
+[16:10:02] SERVICE
+  Sending request: [object Object]
+[16:10:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:02] SERVICE
+  Got 'info': [object Object]
+[16:10:02] SERVICE
+  Got 'info': [object Object]
+[16:10:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:02] SERVICE
+  Got 'info': [object Object]
+[16:10:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:02] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:02] AUTOCOMPLETE
+  Using last result: 
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:03] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:03] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:03] AUTOCOMPLETE
+  Using last result: 
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Sending request: [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:03] SERVICE
+  Got 'info': [object Object]
+[16:10:03] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:04] SERVICE
+  Sending request: [object Object]
+[16:10:04] SERVICE
+  Sending request: [object Object]
+[16:10:04] SERVICE
+  Sending request: [object Object]
+[16:10:04] SERVICE
+  Got 'info': [object Object]
+[16:10:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:04] SERVICE
+  Got 'info': [object Object]
+[16:10:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:04] SERVICE
+  Got 'info': [object Object]
+[16:10:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:05] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:05] AUTOCOMPLETE
+  Using last result: 
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:05] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] AUTOCOMPLETE
+  Using last result: 
+[16:10:05] AUTOCOMPLETE
+  updating...
+[16:10:05] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:05] AUTOCOMPLETE
+  Using last result: 
+[16:10:05] AUTOCOMPLETE
+  updating...
+[16:10:05] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:05] AUTOCOMPLETE
+  Using last result: 
+[16:10:05] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:05] SERVICE
+  Sending request: [object Object]
+[16:10:05] SERVICE
+  Got 'info': [object Object]
+[16:10:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:05] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:05] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:05] AUTOCOMPLETE
+  Using last result: 
+[16:10:06] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:06] SERVICE
+  Sending request: [object Object]
+[16:10:06] SERVICE
+  Got 'info': [object Object]
+[16:10:06] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:06] SERVICE
+  Sending request: [object Object]
+[16:10:06] SERVICE
+  Got 'info': [object Object]
+[16:10:06] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:06] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:06] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:06] AUTOCOMPLETE
+  Using last result: 
+[16:10:06] AUTOCOMPLETE
+  updating...
+[16:10:08] SERVICE
+  Sending request: [object Object]
+[16:10:08] SERVICE
+  Got 'info': [object Object]
+[16:10:08] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updating...
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updating...
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updating...
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] SERVICE
+  Sending request: [object Object]
+[16:10:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:09] SERVICE
+  Got 'info': [object Object]
+[16:10:09] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:09] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:09] AUTOCOMPLETE
+  Using last result: 
+[16:10:09] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:10] SERVICE
+  Sending request: [object Object]
+[16:10:10] SERVICE
+  Got 'info': [object Object]
+[16:10:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:10] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:10:10] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:10:10] AUTOCOMPLETE
+  Using last result: 
+[16:10:10] AUTOCOMPLETE
+  updating...
+[16:10:21] SERVICE
+  Sending request: [object Object]
+[16:10:21] SERVICE
+  Sending request: [object Object]
+[16:10:21] SERVICE
+  Got 'info': [object Object]
+[16:10:21] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:21] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:21] SERVICE
+  Got 'info': [object Object]
+[16:10:22] SERVICE
+  Sending request: [object Object]
+[16:10:22] SERVICE
+  Got 'info': [object Object]
+[16:10:22] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:23] SERVICE
+  Sending request: [object Object]
+[16:10:23] SERVICE
+  Sending request: [object Object]
+[16:10:23] SERVICE
+  Got 'info': [object Object]
+[16:10:23] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:23] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:23] SERVICE
+  Got 'info': [object Object]
+[16:10:24] SERVICE
+  Sending request: [object Object]
+[16:10:24] SERVICE
+  Sending request: [object Object]
+[16:10:24] SERVICE
+  Got 'info': [object Object]
+[16:10:24] SERVICE
+  Got 'info': [object Object]
+[16:10:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:24] SERVICE
+  Sending request: [object Object]
+[16:10:24] SERVICE
+  Got 'info': [object Object]
+[16:10:24] SERVICE
+  Sending request: [object Object]
+[16:10:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:24] SERVICE
+  Got 'info': [object Object]
+[16:10:24] SERVICE
+  Sending request: [object Object]
+[16:10:24] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:24] SERVICE
+  Got 'info': [object Object]
+[16:10:25] SERVICE
+  Sending request: [object Object]
+[16:10:25] SERVICE
+  Got 'info': [object Object]
+[16:10:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:25] SERVICE
+  Sending request: [object Object]
+[16:10:25] SERVICE
+  Sending request: [object Object]
+[16:10:25] SERVICE
+  Got 'info': [object Object]
+[16:10:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:25] SERVICE
+  Got 'info': [object Object]
+[16:10:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:26] SERVICE
+  Sending request: [object Object]
+[16:10:26] SERVICE
+  Got 'info': [object Object]
+[16:10:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:26] SERVICE
+  Sending request: [object Object]
+[16:10:26] SERVICE
+  Sending request: [object Object]
+[16:10:26] SERVICE
+  Sending request: [object Object]
+[16:10:26] SERVICE
+  Got 'info': [object Object]
+[16:10:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:10:26] SERVICE
+  Got 'info': [object Object]
+[16:10:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:26] SERVICE
+  Got 'info': [object Object]
+[16:10:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:30] SERVICE
+  Sending request: [object Object]
+[16:10:30] SERVICE
+  Sending request: [object Object]
+[16:10:30] SERVICE
+  Got 'info': [object Object]
+[16:10:30] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:30] SERVICE
+  Got 'info': [object Object]
+[16:10:30] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:30] SERVICE
+  Sending request: [object Object]
+[16:10:30] SERVICE
+  Sending request: [object Object]
+[16:10:30] SERVICE
+  Got 'info': [object Object]
+[16:10:30] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:30] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:30] SERVICE
+  Got 'info': [object Object]
+[16:10:31] SERVICE
+  Sending request: [object Object]
+[16:10:31] SERVICE
+  Sending request: [object Object]
+[16:10:31] SERVICE
+  Sending request: [object Object]
+[16:10:31] SERVICE
+  Got 'info': [object Object]
+[16:10:31] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:31] SERVICE
+  Got 'info': [object Object]
+[16:10:31] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:31] SERVICE
+  Got 'info': [object Object]
+[16:10:31] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:34] SERVICE
+  Sending request: [object Object]
+[16:10:34] SERVICE
+  Sending request: [object Object]
+[16:10:34] SERVICE
+  Got 'info': [object Object]
+[16:10:34] SERVICE
+  Got 'info': [object Object]
+[16:10:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:34] SERVICE
+  Sending request: [object Object]
+[16:10:34] SERVICE
+  Sending request: [object Object]
+[16:10:34] SERVICE
+  Got 'info': [object Object]
+[16:10:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:34] SERVICE
+  Got 'info': [object Object]
+[16:10:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:35] SERVICE
+  Sending request: [object Object]
+[16:10:35] SERVICE
+  Got 'info': [object Object]
+[16:10:35] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:35] SERVICE
+  Got 'info': [object Object]
+[16:10:35] SERVICE
+  Sending request: [object Object]
+[16:10:35] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:35] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:35] SERVICE
+  Got 'info': [object Object]
+[16:10:35] SERVICE
+  Sending request: [object Object]
+[16:10:36] SERVICE
+  Sending request: [object Object]
+[16:10:36] SERVICE
+  Sending request: [object Object]
+[16:10:36] SERVICE
+  Got 'info': [object Object]
+[16:10:36] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:36] SERVICE
+  Got 'info': [object Object]
+[16:10:36] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:36] SERVICE
+  Sending request: [object Object]
+[16:10:36] SERVICE
+  Got 'info': [object Object]
+[16:10:36] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:41] SERVICE
+  Sending request: [object Object]
+[16:10:42] SERVICE
+  Got 'project': [object Object]
+[16:10:42] SERVICE
+  Sending request: [object Object]
+[16:10:42] SERVICE
+  Sending request: [object Object]
+[16:10:42] SERVICE
+  Got 'info': [object Object]
+[16:10:42] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:42] SERVICE
+  Got 'info': [object Object]
+[16:10:42] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:50] SERVICE
+  Sending request: [object Object]
+[16:10:50] SERVICE
+  Got 'project': [object Object]
+[16:10:51] SERVICE
+  Sending request: [object Object]
+[16:10:51] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:51] SERVICE
+  Got 'info': [object Object]
+[16:10:55] SERVICE
+  Sending request: [object Object]
+[16:10:55] SERVICE
+  Got 'info': [object Object]
+[16:10:55] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:10:59] SERVICE
+  Sending request: [object Object]
+[16:10:59] SERVICE
+  Got 'info': [object Object]
+[16:10:59] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:01] SERVICE
+  Sending request: [object Object]
+[16:11:01] SERVICE
+  Sending request: [object Object]
+[16:11:01] SERVICE
+  Got 'info': [object Object]
+[16:11:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:01] SERVICE
+  Got 'info': [object Object]
+[16:11:01] SERVICE
+  Sending request: [object Object]
+[16:11:01] SERVICE
+  Got 'info': [object Object]
+[16:11:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:02] SERVICE
+  Sending request: [object Object]
+[16:11:02] SERVICE
+  Sending request: [object Object]
+[16:11:02] SERVICE
+  Sending request: [object Object]
+[16:11:02] SERVICE
+  Got 'info': [object Object]
+[16:11:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:02] SERVICE
+  Got 'info': [object Object]
+[16:11:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:02] SERVICE
+  Got 'info': [object Object]
+[16:11:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:04] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:11:04] SERVICE
+  Sending request: [object Object]
+[16:11:04] SERVICE
+  Got 'info': [object Object]
+[16:11:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:04] SERVICE
+  Sending request: [object Object]
+[16:11:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:04] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:11:04] AUTOCOMPLETE
+  Using last result: 
+[16:11:04] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:11:04] AUTOCOMPLETE
+  Using last result: 
+[16:11:04] SERVICE
+  Got 'info': [object Object]
+[16:11:04] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:11:04] AUTOCOMPLETE
+  Using last result: 
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:05] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:11:05] AUTOCOMPLETE
+  Using last result: 
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Sending request: [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:05] SERVICE
+  Got 'info': [object Object]
+[16:11:13] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:11:13] SERVICE
+  Sending request: [object Object]
+[16:11:13] SERVICE
+  Got 'info': [object Object]
+[16:11:13] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:13] SERVICE
+  Sending request: [object Object]
+[16:11:14] SERVICE
+  Got 'info': [object Object]
+[16:11:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:14] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:11:14] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:11:14] AUTOCOMPLETE
+  Using last result: 
+[16:11:14] SERVICE
+  Sending request: [object Object]
+[16:11:14] SERVICE
+  Sending request: [object Object]
+[16:11:14] SERVICE
+  Sending request: [object Object]
+[16:11:14] SERVICE
+  Got 'info': [object Object]
+[16:11:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:14] SERVICE
+  Got 'info': [object Object]
+[16:11:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:14] SERVICE
+  Got 'info': [object Object]
+[16:11:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:30] SERVICE
+  Sending request: [object Object]
+[16:11:30] SERVICE
+  Got 'info': [object Object]
+[16:11:30] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:34] SERVICE
+  Sending request: [object Object]
+[16:11:34] SERVICE
+  Sending request: [object Object]
+[16:11:34] SERVICE
+  Sending request: [object Object]
+[16:11:34] SERVICE
+  Got 'info': [object Object]
+[16:11:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:11:34] SERVICE
+  Got 'info': [object Object]
+[16:11:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:11:34] SERVICE
+  Got 'info': [object Object]
+[16:11:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:13:54] SERVICE
+  Sending request: [object Object]
+[16:13:54] SERVICE
+  Got 'project': [object Object]
+[16:13:54] SERVICE
+  Sending request: [object Object]
+[16:13:54] SERVICE
+  Got 'info': [object Object]
+[16:13:54] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:02] SERVICE
+  Sending request: [object Object]
+[16:14:02] SERVICE
+  Got 'info': [object Object]
+[16:14:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:04] SERVICE
+  Sending request: [object Object]
+[16:14:04] SERVICE
+  Sending request: [object Object]
+[16:14:04] SERVICE
+  Got 'info': [object Object]
+[16:14:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:04] SERVICE
+  Got 'info': [object Object]
+[16:14:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:05] SERVICE
+  Sending request: [object Object]
+[16:14:05] SERVICE
+  Got 'info': [object Object]
+[16:14:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:07] SERVICE
+  Sending request: [object Object]
+[16:14:07] SERVICE
+  Got 'info': [object Object]
+[16:14:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:09] SERVICE
+  Sending request: [object Object]
+[16:14:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:09] SERVICE
+  Got 'info': [object Object]
+[16:14:09] SERVICE
+  Sending request: [object Object]
+[16:14:09] SERVICE
+  Sending request: [object Object]
+[16:14:09] SERVICE
+  Got 'info': [object Object]
+[16:14:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:09] SERVICE
+  Got 'info': [object Object]
+[16:14:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:09] SERVICE
+  Sending request: [object Object]
+[16:14:09] SERVICE
+  Got 'info': [object Object]
+[16:14:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:10] SERVICE
+  Sending request: [object Object]
+[16:14:10] SERVICE
+  Sending request: [object Object]
+[16:14:10] SERVICE
+  Got 'info': [object Object]
+[16:14:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:10] SERVICE
+  Got 'info': [object Object]
+[16:14:10] SERVICE
+  Sending request: [object Object]
+[16:14:10] SERVICE
+  Sending request: [object Object]
+[16:14:10] SERVICE
+  Sending request: [object Object]
+[16:14:10] SERVICE
+  Got 'info': [object Object]
+[16:14:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:10] SERVICE
+  Got 'info': [object Object]
+[16:14:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:14:10] SERVICE
+  Got 'info': [object Object]
+[16:14:12] AUTOCOMPLETE
+  updateLastResult - calling language service
+[16:14:12] SERVICE
+  Sending request: [object Object]
+[16:14:12] SERVICE
+  Got 'info': [object Object]
+[16:14:12] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:14:12] SERVICE
+  Sending request: [object Object]
+[16:14:12] SERVICE
+  Got 'info': [object Object]
+[16:14:12] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:12] ERROR
+  Parsing response failed: TypeError: Cannot read property 'Tag' of undefined
+[16:14:12] AUTOCOMPLETE
+  Handling request: [object Object]
+[16:14:12] AUTOCOMPLETE
+  Using last result: 
+[16:14:12] SERVICE
+  Sending request: [object Object]
+[16:14:12] SERVICE
+  Got 'info': [object Object]
+[16:14:12] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:14:12] SERVICE
+  Sending request: [object Object]
+[16:14:12] SERVICE
+  Sending request: [object Object]
+[16:14:12] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:12] SERVICE
+  Got 'info': [object Object]
+[16:14:12] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:14:12] SERVICE
+  Got 'info': [object Object]
+[16:15:21] SERVICE
+  Sending request: [object Object]
+[16:15:21] SERVICE
+  Got 'info': [object Object]
+[16:15:21] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:27] SERVICE
+  Sending request: [object Object]
+[16:15:27] SERVICE
+  Sending request: [object Object]
+[16:15:27] SERVICE
+  Got 'info': [object Object]
+[16:15:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:27] SERVICE
+  Got 'info': [object Object]
+[16:15:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:27] SERVICE
+  Sending request: [object Object]
+[16:15:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:27] SERVICE
+  Got 'info': [object Object]
+[16:15:28] SERVICE
+  Sending request: [object Object]
+[16:15:28] SERVICE
+  Sending request: [object Object]
+[16:15:28] SERVICE
+  Got 'info': [object Object]
+[16:15:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:28] SERVICE
+  Got 'info': [object Object]
+[16:15:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:32] SERVICE
+  Sending request: [object Object]
+[16:15:32] SERVICE
+  Got 'project': [object Object]
+[16:15:33] SERVICE
+  Sending request: [object Object]
+[16:15:33] SERVICE
+  Got 'info': [object Object]
+[16:15:33] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:15:34] SERVICE
+  Sending request: [object Object]
+[16:15:34] SERVICE
+  Got 'info': [object Object]
+[16:15:34] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:36] SERVICE
+  Sending request: [object Object]
+[16:15:36] SERVICE
+  Got 'info': [object Object]
+[16:15:36] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:15:38] SERVICE
+  Sending request: [object Object]
+[16:15:38] SERVICE
+  Got 'info': [object Object]
+[16:15:38] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:00] SERVICE
+  Sending request: [object Object]
+[16:17:00] SERVICE
+  Got 'info': [object Object]
+[16:17:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:01] SERVICE
+  Sending request: [object Object]
+[16:17:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:01] SERVICE
+  Got 'info': [object Object]
+[16:17:25] SERVICE
+  Sending request: [object Object]
+[16:17:25] SERVICE
+  Got 'info': [object Object]
+[16:17:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:27] SERVICE
+  Sending request: [object Object]
+[16:17:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:27] SERVICE
+  Sending request: [object Object]
+[16:17:27] SERVICE
+  Got 'info': [object Object]
+[16:17:27] SERVICE
+  Got 'info': [object Object]
+[16:17:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:28] SERVICE
+  Sending request: [object Object]
+[16:17:28] SERVICE
+  Got 'info': [object Object]
+[16:17:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:17:38] SERVICE
+  Sending request: [object Object]
+[16:17:38] SERVICE
+  Got 'info': [object Object]
+[16:17:38] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:24] SERVICE
+  Sending request: [object Object]
+[16:18:24] SERVICE
+  Got 'project': [object Object]
+[16:18:25] SERVICE
+  Sending request: [object Object]
+[16:18:25] SERVICE
+  Got 'info': [object Object]
+[16:18:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:25] SERVICE
+  Sending request: [object Object]
+[16:18:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:25] SERVICE
+  Got 'info': [object Object]
+[16:18:26] SERVICE
+  Sending request: [object Object]
+[16:18:26] SERVICE
+  Sending request: [object Object]
+[16:18:26] SERVICE
+  Sending request: [object Object]
+[16:18:26] SERVICE
+  Got 'info': [object Object]
+[16:18:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:18:26] SERVICE
+  Got 'info': [object Object]
+[16:18:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:26] SERVICE
+  Got 'info': [object Object]
+[16:18:26] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:27] SERVICE
+  Sending request: [object Object]
+[16:18:27] SERVICE
+  Got 'info': [object Object]
+[16:18:27] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:28] SERVICE
+  Sending request: [object Object]
+[16:18:28] SERVICE
+  Got 'info': [object Object]
+[16:18:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:18:28] SERVICE
+  Sending request: [object Object]
+[16:18:28] SERVICE
+  Got 'info': [object Object]
+[16:18:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Parse aborted"}': [object Object]
+[16:18:28] SERVICE
+  Sending request: [object Object]
+[16:18:28] SERVICE
+  Sending request: [object Object]
+[16:18:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:28] SERVICE
+  Got 'info': [object Object]
+[16:18:28] SERVICE
+  Got 'info': [object Object]
+[16:18:28] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:29] SERVICE
+  Sending request: [object Object]
+[16:18:29] SERVICE
+  Got 'project': [object Object]
+[16:18:31] SERVICE
+  Sending request: [object Object]
+[16:18:31] SERVICE
+  Sending request: [object Object]
+[16:18:31] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:31] SERVICE
+  Got 'info': [object Object]
+[16:18:31] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:18:31] SERVICE
+  Got 'info': [object Object]
+[16:19:07] SERVICE
+  Sending request: [object Object]
+[16:19:07] SERVICE
+  Got 'project': [object Object]
+[16:19:08] SERVICE
+  Sending request: [object Object]
+[16:19:08] SERVICE
+  Got 'info': [object Object]
+[16:19:08] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:19:10] SERVICE
+  Sending request: [object Object]
+[16:19:10] SERVICE
+  Got 'info': [object Object]
+[16:19:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:25:59] SERVICE
+  Sending request: [object Object]
+[16:26:00] SERVICE
+  Got 'project': [object Object]
+[16:26:00] SERVICE
+  Sending request: [object Object]
+[16:26:00] SERVICE
+  Sending request: [object Object]
+[16:26:00] SERVICE
+  Got 'info': [object Object]
+[16:26:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:00] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:00] SERVICE
+  Got 'info': [object Object]
+[16:26:01] SERVICE
+  Sending request: [object Object]
+[16:26:01] SERVICE
+  Sending request: [object Object]
+[16:26:01] SERVICE
+  Got 'info': [object Object]
+[16:26:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:01] SERVICE
+  Got 'info': [object Object]
+[16:26:01] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:04] SERVICE
+  Sending request: [object Object]
+[16:26:04] SERVICE
+  Sending request: [object Object]
+[16:26:04] SERVICE
+  Got 'info': [object Object]
+[16:26:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:04] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:04] SERVICE
+  Got 'info': [object Object]
+[16:26:07] SERVICE
+  Sending request: [object Object]
+[16:26:07] SERVICE
+  Sending request: [object Object]
+[16:26:07] SERVICE
+  Got 'info': [object Object]
+[16:26:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:07] SERVICE
+  Got 'info': [object Object]
+[16:26:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:09] SERVICE
+  Sending request: [object Object]
+[16:26:09] SERVICE
+  Sending request: [object Object]
+[16:26:09] SERVICE
+  Got 'info': [object Object]
+[16:26:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:09] SERVICE
+  Got 'info': [object Object]
+[16:26:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:26:49] SERVICE
+  Sending request: [object Object]
+[16:26:49] SERVICE
+  Got 'project': [object Object]
+[16:26:51] SERVICE
+  Sending request: [object Object]
+[16:26:51] SERVICE
+  Got 'project': [object Object]
+[16:26:55] SERVICE
+  Sending request: [object Object]
+[16:26:55] SERVICE
+  Got 'info': [object Object]
+[16:26:55] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:01] SERVICE
+  Sending request: [object Object]
+[16:27:01] SERVICE
+  Got 'project': [object Object]
+[16:27:02] SERVICE
+  Sending request: [object Object]
+[16:27:02] SERVICE
+  Got 'info': [object Object]
+[16:27:02] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:05] SERVICE
+  Sending request: [object Object]
+[16:27:05] SERVICE
+  Got 'info': [object Object]
+[16:27:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:06] SERVICE
+  Sending request: [object Object]
+[16:27:06] SERVICE
+  Sending request: [object Object]
+[16:27:06] SERVICE
+  Got 'info': [object Object]
+[16:27:06] SERVICE
+  Got 'info': [object Object]
+[16:27:06] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:06] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:07] SERVICE
+  Sending request: [object Object]
+[16:27:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:07] SERVICE
+  Got 'info': [object Object]
+[16:27:08] SERVICE
+  Sending request: [object Object]
+[16:27:08] SERVICE
+  Sending request: [object Object]
+[16:27:08] SERVICE
+  Got 'info': [object Object]
+[16:27:08] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:08] SERVICE
+  Got 'info': [object Object]
+[16:27:08] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:09] SERVICE
+  Sending request: [object Object]
+[16:27:09] SERVICE
+  Got 'info': [object Object]
+[16:27:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:10] SERVICE
+  Sending request: [object Object]
+[16:27:10] SERVICE
+  Got 'info': [object Object]
+[16:27:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:10] SERVICE
+  Got 'info': [object Object]
+[16:27:10] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:10] SERVICE
+  Sending request: [object Object]
+[16:27:11] SERVICE
+  Sending request: [object Object]
+[16:27:11] SERVICE
+  Got 'info': [object Object]
+[16:27:11] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:27:16] SERVICE
+  Sending request: [object Object]
+[16:27:16] SERVICE
+  Got 'info': [object Object]
+[16:27:16] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:28:05] SERVICE
+  Sending request: [object Object]
+[16:28:05] SERVICE
+  Got 'info': [object Object]
+[16:28:05] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:28:07] SERVICE
+  Sending request: [object Object]
+[16:28:07] SERVICE
+  Got 'info': [object Object]
+[16:28:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:28:07] SERVICE
+  Sending request: [object Object]
+[16:28:07] SERVICE
+  Sending request: [object Object]
+[16:28:07] SERVICE
+  Got 'info': [object Object]
+[16:28:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:28:07] SERVICE
+  Got 'info': [object Object]
+[16:28:07] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:28:09] SERVICE
+  Sending request: [object Object]
+[16:28:09] SERVICE
+  Got 'info': [object Object]
+[16:28:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:29:22] SERVICE
+  Sending request: [object Object]
+[16:29:22] SERVICE
+  Got 'info': [object Object]
+[16:29:22] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:31:14] SERVICE
+  Sending request: [object Object]
+[16:31:14] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:31:14] SERVICE
+  Got 'info': [object Object]
+[16:31:25] SERVICE
+  Sending request: [object Object]
+[16:31:25] SERVICE
+  Got 'info': [object Object]
+[16:31:25] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:32:46] SERVICE
+  Sending request: [object Object]
+[16:32:46] SERVICE
+  Got 'info': [object Object]
+[16:32:46] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:42:51] SERVICE
+  Sending request: [object Object]
+[16:42:51] SERVICE
+  Got 'info': [object Object]
+[16:42:51] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:43:06] SERVICE
+  Sending request: [object Object]
+[16:43:06] SERVICE
+  Got 'info': [object Object]
+[16:43:06] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:43:09] SERVICE
+  Sending request: [object Object]
+[16:43:09] SERVICE
+  Got 'info': [object Object]
+[16:43:09] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
+[16:43:37] SERVICE
+  Sending request: [object Object]
+[16:43:37] SERVICE
+  Got 'info': [object Object]
+[16:43:37] SERVICE
+  Received info event '{"Kind":"info","Data":"Cached typecheck results not yet available"}': [object Object]
